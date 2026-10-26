@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm an **AI Engineer** passionate about building intelligent applications using Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs).<br><br>My focus is on developing practical AI solutions, from training and fine-tuning language models to building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and AI agents.<br><br>🔹 **Core Interests:** NLP, LLMs, Generative AI, RAG, and AI Agents  <br>🔹 **Machine Learning:** Scikit-learn, PyTorch, Deep Learning  <br>🔹 **LLM Engineering:** Transformers, Hugging Face, Fine-tuning, LoRA/QLoRA  <br>🔹 **AI Applications:** Semantic Search, Document Intelligence, and Intelligent Automation  <br><br>I'm always exploring new techniques, building projects, and turning ideas into practical AI solutions.<br><br>**Let's connect and build something intelligent together!**
 
 
